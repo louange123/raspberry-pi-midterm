@@ -1,0 +1,1 @@
+ls -l > pr1.txt

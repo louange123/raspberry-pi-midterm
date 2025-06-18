@@ -1,0 +1,2 @@
+cd ~
+ls -l > pr4.txt
